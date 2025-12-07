@@ -1,0 +1,25 @@
+---
+title: "FAIR"
+output: html_document
+---
+
+I.- Findability
+
+All databases and metadata used for analysis in this document are available online in GitHub (see section GitHub repository above). “loch_data.csv” is the database with all observations in the field, in Lochranza_project main folder. “loch_data.csv” results of the combination of subsets made by each sampling team. Each of these are available in Lochranza_project > docs > Fresh water invertebrates OR mammals OR Phase 1 and Invertebrates.
+The individual lists retrieved from NBN Atlas (see methods) can be found in Lochranza_project > docs > Desk Work.
+Shapefiles and other resources to create the maps shown in this report are available online in [11, 12, 17, see references]. They can also be found in Lochranza_project > QGis_data. 
+
+II.- Accessibility
+
+All databases made for this project and collected in the field are open access (see section GitHub repository above).
+Shapefiles and other resources to create the maps shown in this report are open access in [11, 12, 17, see references].
+
+III.- Interoperability
+
+Databases are in .csv and xlsx and can be read in R. Shapefiles and equivalent resources are readable with QGis or others softwares of Geographic Information System (eg. ArcGis, Terrset).
+Full R script is available in the GitHub repository.
+
+IV.- Reusability
+
+Please refer to README sheet in each subsets used combined to create “loch_data.csv”.
+For further description of Shapefiles and other resources please refer to [11, 12, 17, see references].

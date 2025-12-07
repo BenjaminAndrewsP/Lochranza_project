@@ -4,4 +4,4 @@ output: html_document
 ---
 
 This repository is for the Lochranza field project that includes figures from analysis in R,
-QGis satelite images and maps, the whole dataset and other documents.
+maps, the whole dataset and other documents.
